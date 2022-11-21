@@ -1,5 +1,5 @@
 // Add js here.
-video = document.getElementById('videoplayer');
+const video = document.getElementById('videoplayer');
 video.autoplay = false;
 video.loop = false;
 video.load();
